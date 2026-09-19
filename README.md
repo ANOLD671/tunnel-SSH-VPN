@@ -1,7 +1,6 @@
 # tunnel-SSH-VPN
 
-# ssh-vpn2
-<img width="1438" height="1060" alt="Screenshot 2026-09-17 012500" src="https://github.com/user-attachments/assets/071eb4a6-820c-4013-8292-46eb28be5e81" />
+<img width="1438" height="1060" alt="Screenshot 2026-09-17 012500" src="https://github.com/user-attachments/assets/2dbf84f0-96b7-4f8b-9a1b-334a28c15133" />
 
 A lightweight, free Windows client that creates an encrypted SSH tunnel to provide a local SOCKS5 proxy (port 9000).
 All traffic is encrypted and obfuscated as ordinary SSH, making it difficult for authorities to detect or block.
